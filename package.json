@@ -1,0 +1,23 @@
+{
+  "name": "hc-cli",
+  "version": "",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^10.0.1",
+    "ini": "^4.1.1",
+    "inquirer": "^9.2.5",
+    "ora": "^6.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.1",
+    "nodemon": "^2.0.22",
+    "typescript": "^5.0.4"
+  }
+}
